@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/your-linkedin/">
+    <a href="https://www.linkedin.com/in/sebastian-690b3729/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://your-youtube-link">
+    <a href="https://www.youtube.com/your-youtube-link">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/your-twitter">
@@ -23,26 +23,28 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Linux User and Kali Linux enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m currently focused on exploring new security tools and techniques, contributing to open-source projects, and continuously improving my skills in Linux-based systems.
+I am a **Systems Engineering student** and **Java Developer** passionate about programming and software design. 👨‍💻
 
-- :seedling: I actively contribute to the Linux community through forums and blogs, sharing my insights on cybersecurity, system administration, and ethical hacking.
+- :books: Currently, I am in the **second semester** of my Systems Engineering degree at Universidad de Boyacá, with a focus on enhancing my skills in development and software design.
 
-- :zap: When I'm not working, you can find me testing new Kali Linux distributions, working on personal projects, and exploring new technologies.
+- :rocket: I am working on a project for a **veterinary clinic**, creating a **PostgreSQL** database and developing a **Java** application to manage users, pets, and medical records. I'm also implementing design patterns such as the **Abstract Factory** and **Iterator**.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Your-Name-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+- :zap: In my free time, I explore **cybersecurity**, **ethical hacking**, and **automation testing**, as well as diving into **AWS EC2** to enhance my skills and monetize them.
+
+- :muscle: I also like to experiment with **code**, explore new technologies, and continually improve my applications through the projects I develop.
+
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-690b3729/)
 
 ---
 
 ### :hammer_and_wrench: Skills & Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kali-linux/kali-linux-original.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openssl/openssl-original-wordmark.svg" title="OpenSSL" alt="OpenSSL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gnome/gnome-original.svg" title="Gnome" alt="Gnome" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
