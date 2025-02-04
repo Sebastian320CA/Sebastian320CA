@@ -4,14 +4,14 @@
     <a href="https://www.linkedin.com/in/sebastian-690b3729/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/your-youtube-link">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://www.youtube.com/your-youtube-link"> <!-- Reemplaza el enlace con tu enlace real de YouTube -->
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://twitter.com/your-twitter">
+    <a href="https://twitter.com/your-twitter"> <!-- Reemplaza el enlace con tu enlace real de Twitter -->
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt=""/> <!-- Reemplaza 'your-github-username' con tu nombre de usuario de GitHub -->
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -50,6 +50,8 @@ I am a **Systems Engineering student** and **Java Developer** passionate about p
 ---
 
 ### :fire: My Stats:
+
+```yaml
 name: GitHub Snake Game
 
 on:
@@ -62,6 +64,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -70,25 +73,24 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
+
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
+          github_user_name: ${{ github.repository_owner }}  # Asegúrate de que esta variable esté correctamente configurada o cámbiala por tu nombre de usuario directamente
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Deploy the generated files to the 'output' branch
+
+      # Step 3: Deploy to Output Branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
           commit_message: "Update snake animation [skip ci]"
