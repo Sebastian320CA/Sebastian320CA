@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 I am a **Systems Engineering student** and **Java Developer** passionate about programming and software design. 👨‍💻
 
-- :books: Currently, I am in the **second semester** of my Systems Engineering degree at Universidad de Boyacá, with a focus on enhancing my skills in development and software design.
+- :books: Currently, I am in the **third semester** of my Systems Engineering degree at Universidad Santo Tomas, with a focus on enhancing my skills in development and software design.
 
 - :rocket: I am working on a project for a **veterinary clinic**, creating a **PostgreSQL** database and developing a **Java** application to manage users, pets, and medical records. I'm also implementing design patterns such as the **Abstract Factory** and **Iterator**.
 
