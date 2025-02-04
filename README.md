@@ -22,7 +22,7 @@ Soy **Sebastián**, estudiante de **Ingeniería en Sistemas** en la **Universida
 
 ---
 
-![Tecnología en movimiento](https://media.giphy.com/media/26xBzvweH2e79Hj9C/giphy.gif)
+![Tecnología en movimiento]([https://media.giphy.com/media/26xBzvweH2e79Hj9C/giphy.gif](https://giphy.com/gifs/security-hacker-vulnerability-ohONS2y8GTDoI))
 
 ## Mis habilidades 💡
 
