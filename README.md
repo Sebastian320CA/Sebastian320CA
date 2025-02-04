@@ -1,62 +1,79 @@
-# Hello, I'm Sebastián 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/patricio-m-690b3729/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@thefreerangetester">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/RangeTester">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=thefreerangetester&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebastian)
+---
+### :man_technologist: About Me :
+I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
+- :telescope: I’m working as a Senior Test Engineer Contractor and contributing to projects both in Wellington and remotely around all New Zealand and Australia.
 
-## About Me 🤖
+- :seedling: Mentoring the new generations of Test Engineers in New Zealand through <a href="https://devacademy.co.nz/testing-automation-essentials/">DevAcademy Aotearoa</a>
 
-I'm **Sebastián**, a **Systems Engineering** student at **Universidad Santo Tomás** 🎓.
+- :zap: In my free time, I create content for <a href="https://www.freerangetesters.com/">Free Range Testers</a> and make music on <a href="https://open.spotify.com/intl-es/artist/1n8lYlkH7XKivKBmh6oey1/">Modern Druids</a>.
 
-⚡ **Programming languages I know**:
-- **Java** 🟩
-- **Python** 🐍
-- **JavaScript** 💻
-- **Node.js** 🚀
-
-🛠️ **Databases**:
-- **PostgreSQL** 🐘
-- **MongoDB** 🍃
-- **SQL** 🧮
-
-💻 **Linux User**:
-- Proud **Kali Linux** user for cybersecurity and penetration testing 🔓
-- Always on **Linux** to boost performance and security 🔐
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
 
 ---
 
-## My Skills 💡
+### :hammer_and_wrench: Languages and Dev Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+  
+</div>
 
-- **Full-stack development** 🌐
-- **Database design & architectures** 🏗️
-- **Linux & Cybersecurity** 🐧 🔒
+### 🐞 Testing Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CypressIO" **alt="CypressIO" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
 
----
-
-## 📈 GitHub Stats
-
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebas&show_icons=true&count_private=true&hide=prs&theme=radical&bg_color=ffffff&border_radius=20)
-
----
-
-## 🚀 Let’s Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sebastian)
-
-## Tech Stack 🌐
-
-![Tech Stack](https://img.shields.io/badge/Linux-%23F7DF1E?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23323333?style=for-the-badge&logo=kali-linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316092?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 🚀 My Current Projects:
-
-- **Cybersecurity & Penetration Testing with Kali Linux**
-- **Full-Stack Web Development** with **Node.js** and **MongoDB**
-- **Automation & Scripting** with **Python**
+</div>
 
 ---
+
+### :fire: My Stats :
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
+<div align="center">  
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefreerangetester&layout=compact&theme=vision-friendly-dark" width="600"/>
+</div>
