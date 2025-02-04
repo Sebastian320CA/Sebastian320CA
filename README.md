@@ -1,4 +1,4 @@
-## Hi my name is Sebastian  👋
+## Hi my name is Sebastian  🙂
 
 <!--
 Here are some ideas to get you started:
@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - I love python programmer :)
+
 -->
