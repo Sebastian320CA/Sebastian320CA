@@ -1,4 +1,5 @@
-## Hi, my name is Sebastian  🙂
+## Hi, my name is Sebastian
+Nice to meet you :)🙂
 
 <!--
 Here are some ideas to get you started:
