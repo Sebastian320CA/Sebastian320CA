@@ -23,15 +23,12 @@
 
 ---
 ### :man_technologist: About Me :
-I am a **Systems Engineering student** and **Java Developer** passionate about programming and software design. 👨‍💻
+I am a Systems Engineering student at Universidad Santo Tomás, currently in my third semester. 👨‍💻
 
-- :books: Currently, I am in the **third semester** of my Systems Engineering degree at Universidad Santo Tomas, with a focus on enhancing my skills in development and software design.
-
-- :rocket: I am working on a project for a **veterinary clinic**, creating a **PostgreSQL** database and developing a **Java** application to manage users, pets, and medical records. I'm also implementing design patterns such as the **Abstract Factory** and **Iterator**.
-
-- :zap: In my free time, I explore **cybersecurity**, **ethical hacking**, and **automation testing**, as well as diving into **AWS EC2** to enhance my skills and monetize them.
-
-- :muscle: I also like to experiment with **code**, explore new technologies, and continually improve my applications through the projects I develop.
+🚀 Areas of Interest:
+Software Development: Passionate about building scalable and robust applications, with a focus on Java 💻 and Python 🐍.
+Operating Systems: Experienced with Linux 🐧, practicing and exploring Kali Linux 🛡️ tools to enhance security and efficiency in my projects.
+Web Technologies: Learning Node.js ⚙️ to enrich my backend development and gain a deeper understanding of web application architecture.
 
 - :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-690b3729/)
 
