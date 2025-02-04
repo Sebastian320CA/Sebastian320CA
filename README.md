@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sebastian)
-[![Website](https://img.shields.io/badge/Website-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sebastian.dev)
 
 ## Acerca de mí 🤖
 
@@ -21,19 +20,15 @@ Soy **Sebastián**, estudiante de **Ingeniería en Sistemas** en la **Universida
 
 🔐 Apasionado por el **hacking** y la **ciberseguridad** 🔒
 
+---
+
+![Tecnología en movimiento](https://media.giphy.com/media/26xBzvweH2e79Hj9C/giphy.gif)
+
 ## Mis habilidades 💡
 
 - Desarrollo web y backend
 - Diseño de bases de datos y arquitecturas
 - Seguridad informática
-
----
-
-## 🌱 Actualmente trabajando en:
-
-- **Proyectos relacionados con ciberseguridad**
-- **Automatización de procesos con Python**
-- **Desarrollo full-stack con Node.js y MongoDB**
 
 ---
 
