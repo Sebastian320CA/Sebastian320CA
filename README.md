@@ -20,7 +20,7 @@
 
   <!-- Greeting -->
   <h1>
-    Hey, my name is sebastian :)
+    Hey, my name is sebastian ;)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
