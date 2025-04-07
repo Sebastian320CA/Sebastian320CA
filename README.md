@@ -4,7 +4,7 @@
   
   <!-- Badges Section -->
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/sebastian-690b3729/](https://www.linkedin.com/in/sebastian-ba23722b8/)">
+    <a href="https://www.linkedin.com/in/sebastian-ba23722b8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@sebas6800">
