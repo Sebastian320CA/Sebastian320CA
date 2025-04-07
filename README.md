@@ -37,8 +37,6 @@ I am a **Systems Engineering** student at **Universidad Santo Tomás**, currentl
 - **Operating Systems**: Experienced with **Linux** 🐧, practicing and exploring **Kali Linux** 🛡️ tools to enhance security and efficiency in my projects.
 - **Web Technologies**: Learning **Node.js** ⚙️ to enrich my **backend** development and gain a deeper understanding of web application architecture.
 
-- :mailbox: How to reach me: 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-690b3729/)
 
 ---
 ### Frontend  
