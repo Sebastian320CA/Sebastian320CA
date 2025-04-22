@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me:
-I am a **Systems Engineering** student at **Universidad Santo Tomás**, currently in my **third semester**. 👨‍💻
+I am a **Systems Engineering** student at **University of Santo Tomás**, currently in my **third semester**. 👨‍💻
 
 🚀 **Areas of Interest**:
 - **Software Development**: Passionate about building scalable and robust applications, with a focus on **Java** 💻 and **Python** 🐍.
