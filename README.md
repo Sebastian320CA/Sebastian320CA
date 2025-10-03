@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian 👋</h1>
+<h3 align="center">A passionate Systems Engineering student & aspiring Backend Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
@@ -21,24 +22,28 @@
 
 ### 🎯 About Me
 
-🎓 I'm a **Systems Engineering** student at **Universidad Santo Tomás**, currently in my **third semester**.
+🎓 I'm a **Systems Engineering** student at **Universidad Santo Tomás**, currently in my **third semester**.  
+🛠 I love building real-world projects and improving systems.  
 
-🛠 I love building real-world projects and improving systems. My main interests are:
-
-- **Backend Development** using **Java**, **Python**, and **Node.js**
-- **Web Technologies** such as **TypeScript**, **PostgreSQL**, and **MongoDB**
+**My main interests are:**
+- **Backend Development** with **Java**, **Python**, and **Node.js**
+- **Web Technologies** with **TypeScript**, **PostgreSQL**, and **MongoDB**
 - **Linux Systems** and cybersecurity tools like **Kali Linux**
-- Exploring **DevOps** practices with Git and Bash
+- Exploring **DevOps** practices with Git, Bash, and CI/CD  
+
+📫 How to reach me: **sebas6800@gmail.com**
 
 ---
 
 ### 🔥 Featured Projects
 
 - 🗳️ [University Voting System](https://github.com/sebas6800/university-voting)  
-  RESTful API + React dashboard using TypeORM and PostgreSQL.
+  RESTful API + React dashboard  
+  `Node.js` `TypeORM` `PostgreSQL` `React`
 
 - 📚 [Student Records Manager](https://github.com/sebas6800/student-records)  
-  Java-based desktop application for academic management.
+  Java desktop app for academic management  
+  `JavaFX` `MySQL`
 
 ---
 
@@ -83,6 +88,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sebas6800&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas6800&layout=compact&theme=radical" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebas6800&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Spring Boot for scalable backend apps  
+- Docker & CI/CD pipelines  
+- Cybersecurity tools on Kali Linux  
+
+### ⚡ Fun fact
+I enjoy teaching others what I learn 🚀  
 
 ---
 
