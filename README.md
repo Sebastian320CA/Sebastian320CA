@@ -31,7 +31,7 @@
 - **Linux Systems** and cybersecurity tools like **Kali Linux**
 - Exploring **DevOps** practices with Git, Bash, and CI/CD  
 
-📫 How to reach me: **sebas6800@gmail.com**
+📫 How to reach me: **sebastian022231@gmail.com**
 
 ---
 
