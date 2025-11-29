@@ -1,110 +1,89 @@
-<h1 align="center">Hi, I'm Sebastian 👋</h1>
-<h3 align="center">A passionate Systems Engineering student & aspiring Backend Developer</h3>
+🚀 Hi, I'm Sebastian 👋
+💻 Systems Engineering Student & Backend Developer
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="120"/> </p><div align="center">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlzajNxbWFxc3oxbGh6enluZW50azJ4eGJ6dmlvZmk5NHNzZThzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
-</p>
+https://komarev.com/ghpvc/?username=sebas6800&color=blueviolet&style=flat-square
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@sebas6800">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+</div>
+👨‍💻 About Me
+🎓 5th Semester Systems Engineering student at Universidad Santo Tomás
+💡 Passionate about creating efficient systems and solving complex problems
+🚀 Always learning and building projects that make a difference
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sebas6800&color=blue" alt="GitHub Views"/>
-</p>
+My Tech Focus:
 
----
+🖥️ Backend Development with Java, Python, and Node.js
 
-### 🎯 About Me
+🌐 Full-Stack applications with TypeScript and modern databases
 
-🎓 I'm a **Systems Engineering** student at **Universidad Santo Tomás**, currently in my **third semester**.  
-🛠 I love building real-world projects and improving systems.  
+🔒 Cybersecurity and Linux systems administration
 
-**My main interests are:**
-- **Backend Development** with **Java**, **Python**, and **Node.js**
-- **Web Technologies** with **TypeScript**, **PostgreSQL**, and **MongoDB**
-- **Linux Systems** and cybersecurity tools like **Kali Linux**
-- Exploring **DevOps** practices with Git, Bash, and CI/CD  
+⚙️ DevOps practices and automation
 
-📫 How to reach me: **sebastian022231@gmail.com**
+🛠️ Tech Stack
+Programming Languages
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> </p>
+Backend & Databases
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+Tools & Platforms
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
+🌟 Featured Projects
+🗳️ University Voting System
+Full-stack voting platform with real-time results
 
----
+RESTful API with Node.js & TypeORM
 
-### 🔥 Featured Projects
+React dashboard for administration
 
-- 🗳️ [University Voting System](https://github.com/sebas6800/university-voting)  
-  RESTful API + React dashboard  
-  `Node.js` `TypeORM` `PostgreSQL` `React`
+PostgreSQL database design
 
-- 📚 [Student Records Manager](https://github.com/sebas6800/student-records)  
-  Java desktop app for academic management  
-  `JavaFX` `MySQL`
+Secure authentication system
 
----
+https://img.shields.io/badge/View_Project-Repository-181717?style=for-the-badge&logo=github
 
-### 🧰 Tech Stack
+📚 Student Records Manager
+Java desktop application for academic management
 
-#### 💻 Languages
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript"/>
-</p>
+JavaFX modern UI interface
 
-#### 🗄️ Databases
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" alt="MongoDB"/>
-</p>
+MySQL database integration
 
-#### 🌐 Tools & Frameworks
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" alt="Node.js"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50" alt="XAMPP"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" alt="Figma"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="50" alt="GitLab"/>
-</p>
+CRUD operations for student data
 
-#### 🐧 Operating Systems & DevOps
-<p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" alt="Bash"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="50" alt="Kubernetes"/>
-</p>
+Report generation features
 
----
+https://img.shields.io/badge/View_Project-Repository-181717?style=for-the-badge&logo=github
 
-### 📊 GitHub Stats
+📈 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=sebas6800&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
+https://github-readme-streak-stats.herokuapp.com/?user=sebas6800&theme=radical&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=sebas6800&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebas6800&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas6800&layout=compact&theme=radical" height="150"/>
-</p>
+</div>
+🎯 Currently Learning
+<div align="center">
+Technology	Focus Area
+Spring Boot	Enterprise backend applications
+Docker & Kubernetes	Containerization & orchestration
+AWS/Cloud Services	Cloud infrastructure & deployment
+Cybersecurity Tools	Kali Linux & penetration testing
+</div>
+📫 Let's Connect!
+<div align="center">
+💼 Open to collaborations and internship opportunities
+📧 Email: sebastian022231@gmail.com
+🎥 Check out my coding journey on YouTube
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebas6800&theme=radical" height="150"/>
-</p>
+</div>
+<div align="center">
+⚡ Fun Fact
+I believe the best way to learn is by building and teaching others!
 
----
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+Thanks for visiting my profile! 🚀
 
-### 🌱 Currently Learning
-- Spring Boot for scalable backend apps  
-- Docker & CI/CD pipelines  
-- Cybersecurity tools on Kali Linux  
-
-### ⚡ Fun fact
-I enjoy teaching others what I learn 🚀  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</p>
+</div>
