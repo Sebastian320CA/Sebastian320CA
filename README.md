@@ -27,7 +27,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ Kitchen Stock / Voting App *(In Progress)*
+### Voting App *(In Progress)*
 **Mobile Application**  
 `Flutter` · `Dart` · `Material Design 3`
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 🏗️ SIGEBEX – Backend System
+### 🏗️ SYNEXIS – Backend System
 **Enterprise Resource Management System**  
 `Java` · `Spring Boot` · `PostgreSQL`
 
