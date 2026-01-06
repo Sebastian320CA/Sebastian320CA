@@ -57,7 +57,7 @@
 
 ### 🚀 Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flutter,git,gitlab" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flutter,git" height="50"/>
 </p>
 
 ### 🗄️ Databases
@@ -68,21 +68,6 @@
 ### 🐧 OS & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker" height="50"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=sebas6800&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  />
-  <img 
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas6800&layout=compact&theme=tokyonight&cache_seconds=1800"
-  />
 </p>
 
 
