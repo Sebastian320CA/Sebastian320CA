@@ -1,53 +1,73 @@
 <h1 align="center">👋 Hi, I'm Sebastian</h1>
-<h3 align="center">Systems Engineering Student | Backend & Mobile Developer in progress</h3>
+<h3 align="center">Systems Engineering Student | Backend & Mobile Developer in Progress</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/">
+  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="img.shields.io"/>
-  <img src="komarev.com"/>
+  <a href="https://github.com/sebas6800">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sebas6800&style=flat&color=blue"/>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 **Systems Engineering** student at **Universidad Santo Tomás** (6th Semester).
-- 🌍 **English Level:** B2 (Fluent in technical communication).
-- 💻 Passionate about **Backend Architecture** (Spring Boot) and **Mobile Development** (Flutter).
-- 🛠 Building scalable systems and focusing on **Clean Code**.
+- 🎓 **Systems Engineering** student at **Universidad Santo Tomás** (6th semester).
+- 🌍 **English level:** B2 (comfortable with technical documentation and communication).
+- 💻 Focused on **Backend Development** with **Spring Boot** and **Mobile Development** with **Flutter**.
+- 🧠 Strong interest in **clean architecture**, scalability, and best coding practices.
+- 🛠 Learning by building real-world projects.
 
-📫 **Reach me at:** `sebastian022231@gmail.com`
+📫 **Contact:** `sebastian022231@gmail.com`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗳️ Kitchen Stock / Voting App (In Progress)
-*Mobile Application*  
-`Flutter` · `Dart` · `Material Design 3`  
-- Developing a cross-platform app focusing on state management and intuitive UI/UX.
-- 🔗 [View Project](github.com) *(Actualiza este link cuando subas el de Flutter)*
+### 🍽️ Kitchen Stock / Voting App *(In Progress)*
+**Mobile Application**  
+`Flutter` · `Dart` · `Material Design 3`
 
-### 🏗️ SIGEBEX - Backend System 
-*Enterprise Resource Management*  
-`Java` · `Spring Boot` · `PostgreSQL`  
-- Built a REST API with Spring Boot for efficient data handling and secure business logic.
-- 🔗 [View Code](github.com)
+- Cross-platform mobile app focused on clean UI, state management, and usability.
+- Designed with scalable architecture and reusable components.
+- 🔗 *Repository coming soon*
+
+---
+
+### 🏗️ SIGEBEX – Backend System
+**Enterprise Resource Management System**  
+`Java` · `Spring Boot` · `PostgreSQL`
+
+- RESTful API built with Spring Boot.
+- Secure business logic and structured data access.
+- Applied layered architecture and clean code principles.
+- 🔗 https://github.com/sebas6800
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 <p align="center">
-  <img src="skillicons.dev" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart" height="50"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🚀 Frameworks & Tools
 <p align="center">
-  <img src="skillicons.dev" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flutter,git,gitlab" height="50"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50"/>
+</p>
+
+### 🐧 OS & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker" height="50"/>
 </p>
 
 ---
@@ -55,18 +75,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="github-readme-stats.vercel.app"/>
-  <img height="150" src="github-readme-stats.vercel.app"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sebas6800&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas6800&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sebas6800&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- **Cloud Computing:** AWS Fundamentals.
-- **Advanced Backend:** Microservices with Spring Cloud.
-- **Cibersecurity:** Network security basics.
+
+- ☁️ **Cloud Computing:** AWS fundamentals.
+- 🧩 **Backend:** Microservices with Spring Cloud.
+- 🔐 **Cybersecurity:** Networking and system security basics.
 
 ---
 
 ## ⚡ Fun Fact
-I believe that the best way to master a technology is to build a project that solves a real-world problem 🚀
+I believe the best way to truly learn a technology is to build something that solves a real-world problem 🚀
