@@ -122,9 +122,9 @@ I am currently building my personal portfolio using modern web technologies to s
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sebastian320CA&show_icons=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sebastian320CA&theme=github" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian320CA&layout=compact" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebastian320CA&theme=github" />
 </p>
 
 ---
