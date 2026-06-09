@@ -119,28 +119,13 @@ I am currently building my personal portfolio using modern web technologies to s
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sebastian320CA&theme=github" />
-
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebastian320CA&theme=github" />
-</p>
-
----
-
 ## Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arch" height="60"/>
+  <img src="https://skillicons.dev/icons?i=arch,git,vscode,idea,docker,maven" />
 </p>
 
-* Arch Linux
-* Git
-* VS Code
-* IntelliJ IDEA
-* Docker
-* Maven
+Arch Linux • Git • VS Code • IntelliJ IDEA • Docker • Maven
 
 Linux is more than just my development environment. It has helped me better understand operating systems, command-line tools, automation, and the philosophy behind open-source software.
 
