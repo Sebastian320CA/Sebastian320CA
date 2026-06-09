@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sebastian-ba23722b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/Sebastian320CA">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -19,15 +19,19 @@
 
 I'm a Systems Engineering student at Universidad Santo Tomás, currently entering my 7th semester.
 
-My primary interest is backend development with Java and Spring Boot, focusing on scalable applications, software architecture, database design, and maintainable codebases.
+My main focus is backend development with Java and Spring Boot, where I enjoy designing maintainable applications, scalable systems, and well-structured architectures.
 
-I enjoy building systems that solve real-world problems while applying engineering principles such as Clean Architecture and Hexagonal Architecture.
+I am constantly looking for opportunities to learn beyond the classroom. I enjoy exploring new technologies, understanding how things work under the hood, and challenging myself with projects that help me grow as a developer.
 
-* Backend Development with Java & Spring Boot
-* PostgreSQL & MySQL
-* Docker & Containerization
-* Software Architecture
-* Linux-based Development Environments
+Linux has become one of my biggest interests. I enjoy working in terminal-based environments, automating workflows, customizing my system, and learning more about operating systems and infrastructure.
+
+### What Drives Me
+
+* Continuous learning and self-improvement.
+* Building practical solutions to real-world problems.
+* Exploring software architecture and system design.
+* Deepening my knowledge of Linux and open-source technologies.
+* Developing clean, maintainable, and scalable applications.
 
 ---
 
@@ -36,7 +40,7 @@ I enjoy building systems that solve real-world problems while applying engineeri
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,maven" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,nextjs,maven" />
 </p>
 
 ### Databases
@@ -48,7 +52,7 @@ I enjoy building systems that solve real-world problems while applying engineeri
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode" />
 </p>
 
 ---
@@ -94,26 +98,34 @@ I enjoy building systems that solve real-world problems while applying engineeri
 
 ---
 
-## GitHub Stats
+## Current Project
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
+### 🚀 Personal Portfolio Website
+
+I am currently building my personal portfolio using modern web technologies to showcase my projects, skills, and development journey.
+
+**Technologies:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact" />
-</p>
+**Goals:**
+
+* Showcase personal and academic projects.
+* Create a modern and responsive user experience.
+* Present my technical skills and development experience.
+* Continue learning frontend technologies while strengthening my backend expertise.
 
 ---
 
-## Currently Learning
+## GitHub Stats
 
-* Advanced Software Architecture
-* Clean Architecture
-* Hexagonal Architecture
-* Database Optimization
-* Containerized Development Environments
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sebastian320CA&show_icons=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian320CA&layout=compact" />
+</p>
 
 ---
 
@@ -125,10 +137,23 @@ I enjoy building systems that solve real-world problems while applying engineeri
 
 * Arch Linux
 * Git
-* IntelliJ IDEA
 * VS Code
+* IntelliJ IDEA
 * Docker
 * Maven
+
+Linux is more than just my development environment. It has helped me better understand operating systems, command-line tools, automation, and the philosophy behind open-source software.
+
+---
+
+## Currently Learning
+
+* Advanced Software Architecture
+* Clean Architecture
+* Hexagonal Architecture
+* Next.js Development
+* Database Optimization
+* Containerized Development Environments
 
 ---
 
@@ -139,8 +164,11 @@ I enjoy building systems that solve real-world problems while applying engineeri
 💼 **LinkedIn:**
 https://www.linkedin.com/in/sebastian-ba23722b8
 
+🐙 **GitHub:**
+https://github.com/Sebastian320CA
+
 ---
 
-## Notes
+## Fun Fact
 
-I enjoy working on backend systems, designing maintainable architectures, and continuously improving my understanding of software engineering principles.
+Most of my projects are developed on Arch Linux. If something stops working unexpectedly, there's a good chance I'll learn something new while fixing it.
