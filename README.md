@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sebastian Cetina</h1>
+<h1 align="center">Hi, I'm Sebastian Cetina</h1>
 <h3 align="center">Systems Engineering Student (7th Semester) | Backend Developer</h3>
 
 <p align="center">
@@ -13,20 +13,20 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🎓 **Systems Engineering** student at **Universidad Santo Tomás** (Entering 7th semester).
-- 🐧 **Environment:** Daily driver **Arch Linux** user. Enthusiastic about automation, CLI tools, and system optimization.
-- 🧠 Focus on architectural patterns, concrete implementations, and decoupled systems.
-- 🌍 **English level:** B2 (Fluent reading technical docs and communication).
+- **Systems Engineering** student at **Universidad Santo Tomás** (Entering 7th semester).
+- **Environment:** Daily driver **Arch Linux** user. Enthusiastic about automation, CLI tools, and system optimization.
+- Focus on architectural patterns, concrete implementations, and decoupled systems.
+- **English level:** B2 (Fluent reading technical docs and communication).
 
-📫 **Contact:** `sebastian022231@gmail.com`
+Contact: `sebastian022231@gmail.com`
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🚨 Server Alert System for Hospitals
+### Server Alert System for Hospitals
 **Backend Application**  
 `Java` · `Spring Boot` · `Thymeleaf` · `PostgreSQL` · `Docker`
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🏥 Hospital Inventory Management System
+### Hospital Inventory Management System
 **Full-Stack Web Application**  
 `Java` · `Spring Boot` · `Thymeleaf` · `PostgreSQL`
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌱 Reforestation Tracking System
+### Reforestation Tracking System
 **Desktop Application**  
 `Java` · `Maven` · `SceneBuilder (JavaFX)` · `MySQL`
 
@@ -54,26 +54,26 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev" height="40"/>
 </p>
 
-### 🗄️ Databases & DevOps
+### Databases & DevOps
 <p align="left">
   <img src="https://skillicons.dev" height="40"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- ⚙️ Advanced System Architecture (Clean Architecture & Hexagonal refactoring).
-- ☁️ Integration of relational databases with containerized environments.
+- Advanced System Architecture (Clean Architecture & Hexagonal refactoring).
+- Integration of relational databases with containerized environments.
 
 ---
 
-## ⚡ Fun Fact
-My code compilation process runs exclusively on Arch Linux. If it doesn't work on the first try, there's always a new config file to check 🛠️
+## Fun Fact
+My code compilation process runs exclusively on Arch Linux. If it doesn't work on the first try, there's always a new config file to check.
