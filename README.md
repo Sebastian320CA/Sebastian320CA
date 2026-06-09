@@ -1,85 +1,79 @@
-<h1 align="center">👋 Hi, I'm Sebastian</h1>
-<h3 align="center">Systems Engineering Student | Backend & Mobile Developer in Progress</h3>
+<h1 align="center">👋 Hi, I'm Sebastian Cetina</h1>
+<h3 align="center">Systems Engineering Student (7th Semester) | Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-ba23722b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sebas6800">
+  <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sebas6800&style=flat&color=blue"/>
+  <img src="https://komarev.com"/>
 </p>
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 **Systems Engineering** student at **Universidad Santo Tomás** (6th semester).
-- 🌍 **English level:** B2 (comfortable with technical documentation and communication).
-- 💻 Focused on **Backend Development** with **Spring Boot** and **Mobile Development** with **Flutter**.
-- 🧠 Strong interest in **clean architecture**, scalability, and best coding practices.
-- 🛠 Learning by building real-world projects.
+- 🎓 **Systems Engineering** student at **Universidad Santo Tomás** (Entering 7th semester).
+- 🐧 **Environment:** Daily driver **Arch Linux** user. Enthusiastic about automation, CLI tools, and system optimization.
+- 🧠 Focus on architectural patterns, concrete implementations, and decoupled systems.
+- 🌍 **English level:** B2 (Fluent reading technical docs and communication).
 
 📫 **Contact:** `sebastian022231@gmail.com`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### Voting App *(In Progress)*
-**Mobile Application**  
-`Flutter` · `Dart` · `Material Design 3`
+### 🚨 Server Alert System for Hospitals
+**Backend Application**  
+`Java` · `Spring Boot` · `Thymeleaf` · `PostgreSQL` · `Docker`
 
-- Cross-platform mobile app focused on clean UI, state management, and usability.
-- Designed with scalable architecture and reusable components.
-- 🔗 *Repository coming soon*
+- Built a server monitoring and alert system designed to prevent downtime in critical hospital environments.
+- Implemented **Hexagonal Architecture (Ports and Adapters)** to decouple core business logic from infrastructure and UI.
+- Containerized the environment using **Docker** for easy deployment and isolation.
 
 ---
 
-### 🏗️ SYNEXIS – Backend System
-**Enterprise Resource Management System**  
-`Java` · `Spring Boot` · `PostgreSQL`
+### 🏥 Hospital Inventory Management System
+**Full-Stack Web Application**  
+`Java` · `Spring Boot` · `Thymeleaf` · `PostgreSQL`
 
-- RESTful API built with Spring Boot.
-- Secure business logic and structured data access.
-- Applied layered architecture and clean code principles.
-- 🔗 https://github.com/sebas6800
+- Developed a web-based inventory management platform tailored for tracking hospital equipment and supplies.
+- Implemented relational data modeling in PostgreSQL, secure user routing, and dynamic server-side rendering.
+
+---
+
+### 🌱 Reforestation Tracking System
+**Desktop Application**  
+`Java` · `Maven` · `SceneBuilder (JavaFX)` · `MySQL`
+
+- Created a desktop system to monitor and record regional reforestation campaigns.
+- Managed modular dependencies using Maven and designed a clean desktop interface via SceneBuilder.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart" height="50"/>
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev" height="40"/>
 </p>
 
-### 🚀 Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flutter,git" height="50"/>
+### 🗄️ Databases & DevOps
+<p align="left">
+  <img src="https://skillicons.dev" height="40"/>
 </p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50"/>
-</p>
-
-### 🐧 OS & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker" height="50"/>
-</p>
-
 
 ---
 
 ## 🌱 Currently Learning
 
-- ☁️ **Cloud Computing:** AWS fundamentals.
-- 🧩 **Backend:** Microservices with Spring Cloud.
-- 🔐 **Cybersecurity:** Networking and system security basics.
+- ⚙️ Advanced System Architecture (Clean Architecture & Hexagonal refactoring).
+- ☁️ Integration of relational databases with containerized environments.
 
 ---
 
 ## ⚡ Fun Fact
-I believe the best way to truly learn a technology is to build something that solves a real-world problem 🚀
+My code compilation process runs exclusively on Arch Linux. If it doesn't work on the first try, there's always a new config file to check 🛠️
