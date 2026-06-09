@@ -1,6 +1,6 @@
-```md
-<h1 align="center">Hi, I'm Sebastian Cetina 👋</h1>
-<h3 align="center">Systems Engineering Student | Backend Developer</h3>
+# Hi, I'm Sebastian Cetina 👋
+
+### Systems Engineering Student | Backend Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-ba23722b8/" target="_blank">
@@ -11,33 +11,23 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:1B262C&height=220&section=header&text=Sebastian%20Cetina&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Sebastian%20Cetina&fontSize=42&fontColor=ffffff"/>
 
 ---
 
 ## About Me
 
-I'm a Systems Engineering student currently entering my 7th semester at Universidad Santo Tomás.
+I'm a Systems Engineering student at Universidad Santo Tomás, currently entering my 7th semester.
 
-Most of my work focuses on backend development using Java and Spring Boot, with a strong interest in software architecture, maintainable codebases, and database design.
+My primary interest is backend development with Java and Spring Boot, focusing on scalable applications, software architecture, database design, and maintainable codebases.
 
-I enjoy building applications that solve real-world problems while applying architectural principles such as Clean Architecture and Hexagonal Architecture.
+I enjoy building systems that solve real-world problems while applying engineering principles such as Clean Architecture and Hexagonal Architecture.
 
-### Current Focus
-
-- Backend Development with Java and Spring Boot
-- Software Architecture
-- PostgreSQL & MySQL
-- Docker and Containerized Environments
-- System Design and Scalability
-
-### Environment
-
-- Arch Linux (Daily Driver)
-- Git & GitHub
-- Maven
-- VS Code / IntelliJ IDEA
-- CLI-Based Workflow
+* Backend Development with Java & Spring Boot
+* PostgreSQL & MySQL
+* Docker & Containerization
+* Software Architecture
+* Linux-based Development Environments
 
 ---
 
@@ -45,19 +35,19 @@ I enjoy building applications that solve real-world problems while applying arch
 
 ### Languages & Frameworks
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,maven" />
 </p>
 
 ### Databases
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### DevOps & Tools
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch" />
 </p>
 
@@ -67,14 +57,14 @@ I enjoy building applications that solve real-world problems while applying arch
 
 ### 🏥 Server Alert System for Hospitals
 
-**Backend Monitoring Application**
+**Backend Application**
 
-**Technologies:** Java · Spring Boot · PostgreSQL · Thymeleaf · Docker
+**Technologies:** Java • Spring Boot • PostgreSQL • Thymeleaf • Docker
 
-- Developed a server monitoring and alert platform focused on minimizing downtime in hospital environments.
-- Applied Hexagonal Architecture (Ports and Adapters) to isolate business rules from infrastructure concerns.
-- Implemented automated notifications and monitoring workflows.
-- Containerized the application using Docker for deployment consistency.
+* Developed a monitoring and alert platform designed to reduce downtime in hospital environments.
+* Implemented Hexagonal Architecture (Ports & Adapters) to isolate business logic from infrastructure concerns.
+* Built automated notification workflows and monitoring processes.
+* Containerized the entire application using Docker.
 
 ---
 
@@ -82,12 +72,12 @@ I enjoy building applications that solve real-world problems while applying arch
 
 **Full-Stack Web Application**
 
-**Technologies:** Java · Spring Boot · PostgreSQL · Thymeleaf
+**Technologies:** Java • Spring Boot • PostgreSQL • Thymeleaf
 
-- Designed and implemented a web platform for hospital inventory management.
-- Built relational database structures for equipment and supply tracking.
-- Implemented authentication, role-based access, and server-side rendering.
-- Focused on usability and data integrity.
+* Designed and developed a web-based inventory management system for hospital equipment and supplies.
+* Implemented relational database models and secure user access.
+* Developed dynamic server-side views using Thymeleaf.
+* Focused on data consistency and maintainability.
 
 ---
 
@@ -95,51 +85,62 @@ I enjoy building applications that solve real-world problems while applying arch
 
 **Desktop Application**
 
-**Technologies:** Java · JavaFX · Maven · MySQL
+**Technologies:** Java • JavaFX • Maven • MySQL
 
-- Created a desktop application for monitoring regional reforestation campaigns.
-- Developed a modular architecture using Maven.
-- Designed interfaces using JavaFX and SceneBuilder.
-- Implemented registration and reporting functionalities for environmental projects.
+* Built a desktop application for monitoring regional reforestation campaigns.
+* Designed graphical interfaces using JavaFX and SceneBuilder.
+* Managed project dependencies through Maven.
+* Implemented registration and reporting functionalities.
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact" />
 </p>
 
 ---
 
 ## Currently Learning
 
-- Advanced System Design
-- Clean Architecture
-- Hexagonal Architecture Refactoring
-- Database Optimization
-- Docker-Based Development Environments
+* Advanced Software Architecture
+* Clean Architecture
+* Hexagonal Architecture
+* Database Optimization
+* Containerized Development Environments
+
+---
+
+## Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arch" height="60"/>
+</p>
+
+* Arch Linux
+* Git
+* IntelliJ IDEA
+* VS Code
+* Docker
+* Maven
 
 ---
 
 ## Contact
 
-📧 Email: **sebastian022231@gmail.com**
+📧 **Email:** `sebastian022231@gmail.com`
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/sebastian-ba23722b8/
+💼 **LinkedIn:**
+https://www.linkedin.com/in/sebastian-ba23722b8
 
 ---
 
-## Fun Fact
+## Notes
 
-My projects are developed and tested primarily on Arch Linux.
-
-If something breaks unexpectedly, there's a good chance the solution is hidden somewhere in a configuration file.
-```
+I enjoy working on backend systems, designing maintainable architectures, and continuously improving my understanding of software engineering principles.
