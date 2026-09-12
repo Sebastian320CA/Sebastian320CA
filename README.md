@@ -1,58 +1,36 @@
 # Hi, I'm Sebastian Cetina 👋
 
-### Systems Engineering Student | Backend Developer
+**Systems Engineering Student | Backend Developer**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sebastian320CA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=Sebastian%20Cetina&fontSize=42&fontColor=ffffff"/>
 
 ---
 
 ## About Me
 
-I'm a Systems Engineering student at Universidad Santo Tomás, currently entering my 7th semester.
+I'm a Systems Engineering student focused on **backend development with Java and Spring Boot**.
 
-My main focus is backend development with Java and Spring Boot, where I enjoy designing maintainable applications, scalable systems, and well-structured architectures.
+I enjoy building maintainable applications, learning software architecture, and understanding how systems work under the hood.
 
-I am constantly looking for opportunities to learn beyond the classroom. I enjoy exploring new technologies, understanding how things work under the hood, and challenging myself with projects that help me grow as a developer.
+I'm also interested in **Linux, DevOps, Cloud, and containerized environments**, and I enjoy working with the terminal and open-source technologies.
 
-Linux has become one of my biggest interests. I enjoy working in terminal-based environments, automating workflows, customizing my system, and learning more about operating systems and infrastructure.
+### Currently learning
 
-### What Drives Me
-
-* Continuous learning and self-improvement.
-* Building practical solutions to real-world problems.
-* Exploring software architecture and system design.
-* Deepening my knowledge of Linux and open-source technologies.
-* Developing clean, maintainable, and scalable applications.
+* Software Architecture
+* DevOps & Cloud
+* Docker & Kubernetes
+* Next.js
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,nextjs,maven" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,typescript,js,postgres,mysql,docker,git,linux,arch" />
 </p>
 
 ---
@@ -61,99 +39,61 @@ Linux has become one of my biggest interests. I enjoy working in terminal-based 
 
 ### 🏥 Server Alert System for Hospitals
 
-**Backend Application**
+**Java · Spring Boot · PostgreSQL · Docker**
 
-**Technologies:** Java • Spring Boot • PostgreSQL • Thymeleaf • Docker
+Monitoring and alert platform designed to reduce downtime in hospital environments.
 
-* Developed a monitoring and alert platform designed to reduce downtime in hospital environments.
-* Implemented Hexagonal Architecture (Ports & Adapters) to isolate business logic from infrastructure concerns.
-* Built automated notification workflows and monitoring processes.
-* Containerized the entire application using Docker.
+* Hexagonal Architecture (Ports & Adapters)
+* Automated notification workflows
+* PostgreSQL database
+* Dockerized application
 
 ---
 
-### 📦 Hospital Inventory Management System
+### 📦 Hospital Inventory Management
 
-**Full-Stack Web Application**
+**Java · Spring Boot · PostgreSQL · Thymeleaf**
 
-**Technologies:** Java • Spring Boot • PostgreSQL • Thymeleaf
+Web application for managing hospital equipment and supplies.
 
-* Designed and developed a web-based inventory management system for hospital equipment and supplies.
-* Implemented relational database models and secure user access.
-* Developed dynamic server-side views using Thymeleaf.
-* Focused on data consistency and maintainability.
+* Relational database design
+* User authentication and access control
+* Server-side rendering with Thymeleaf
+* Focus on maintainability and data consistency
 
 ---
 
 ### 🌱 Reforestation Tracking System
 
-**Desktop Application**
+**Java · JavaFX · MySQL · Maven**
 
-**Technologies:** Java • JavaFX • Maven • MySQL
+Desktop application for monitoring regional reforestation campaigns.
 
-* Built a desktop application for monitoring regional reforestation campaigns.
-* Designed graphical interfaces using JavaFX and SceneBuilder.
-* Managed project dependencies through Maven.
-* Implemented registration and reporting functionalities.
-
----
-
-## Current Project
-
-### 🚀 Personal Portfolio Website
-
-I am currently building my personal portfolio using modern web technologies to showcase my projects, skills, and development journey.
-
-**Technologies:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,vscode" />
-</p>
-
-**Goals:**
-
-* Showcase personal and academic projects.
-* Create a modern and responsive user experience.
-* Present my technical skills and development experience.
-* Continue learning frontend technologies while strengthening my backend expertise.
+* JavaFX interface
+* MySQL database
+* Registration and reporting functionality
+* Maven dependency management
 
 ---
 
-## Development Environment
+## 🚀 Currently Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,git,vscode,idea,docker,maven" />
-</p>
+**Personal Portfolio**
 
-Arch Linux • Git • VS Code • IntelliJ IDEA • Docker • Maven
+A personal developer portfolio built with:
 
-Linux is more than just my development environment. It has helped me better understand operating systems, command-line tools, automation, and the philosophy behind open-source software.
+`Next.js` · `TypeScript` · `Tailwind CSS`
 
 ---
 
-## Currently Learning
-
-* Advanced Software Architecture
-* Clean Architecture
-* Hexagonal Architecture
-* Next.js Development
-* Database Optimization
-* Containerized Development Environments
-
----
-
-## Contact
+## Connect With Me
 
 📧 **Email:** `sebastian022231@gmail.com`
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/sebastian-ba23722b8
-
-🐙 **GitHub:**
-https://github.com/Sebastian320CA
+💼 **LinkedIn:** [linkedin.com/in/sebastian-ba23722b8](https://www.linkedin.com/in/sebastian-ba23722b8)
 
 ---
 
-## Fun Fact
-
-Most of my projects are developed on Arch Linux. If something stops working unexpectedly, there's a good chance I'll learn something new while fixing it.
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
