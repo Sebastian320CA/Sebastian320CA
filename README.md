@@ -1,116 +1,117 @@
 # Hi, I'm Sebastian Cetina 👋
 
-**Backend Engineer | Java & Spring Boot Specialist**
+### Systems Engineering Student · Backend Development · Java & Spring Boot
 
-Experienced in designing scalable backend architectures, robust APIs, and containerized microservices. Passionate about software craftsmanship, clean code, and cloud-native ecosystems.
+I'm a **Systems Engineering student** focused on backend development and software architecture. I enjoy building applications with **Java and Spring Boot**, working with databases, Linux environments, Docker, and exploring how systems work under the hood.
+
+I'm currently strengthening my knowledge in **software architecture, DevOps, cloud computing, and distributed systems** through academic and personal projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sebastian-ba23722b8/">
-    <img src="https://shields.io"/>
+  <a href="https://www.linkedin.com/in/sebastian-cetina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sebastian022231@gmail.com">
-    <img src="https://shields.io"/>
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 💼 Professional Summary
+## About Me
 
-I am a **Software Engineer** specializing in backend development with the **Java and Spring ecosystem**. I focus on building highly maintainable, distributed systems utilizing modern architectural patterns like **Domain-Driven Design (DDD) and Hexagonal Architecture**. 
-
-My expertise spans relational database design, containerization with **Docker**, and implementing automated workflow pipelines. I operate deeply within **Linux environments** and continuously optimize backend systems for scalability, safety, and performance.
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />Core Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Spring" />
-      <br />Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
-      <br />Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Linux" />
-      <br />Linux / Arch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
-      <br />Git Control
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Tailwind" />
-      <br />Tailwind CSS
-    </td>
-  </tr>
-</table>
+- 🎓 Systems Engineering student at **Universidad Santo Tomás**
+- 💻 Interested in **backend development and software architecture**
+- ☕ Currently focused on **Java & Spring Boot**
+- 🐧 Daily Linux user, especially **Arch Linux**
+- 🐳 Learning and applying **Docker, DevOps and cloud technologies**
+- 🗄️ Working with **PostgreSQL and MySQL**
+- 🔧 I enjoy understanding how software works under the hood
+- 🤝 Interested in collaborative environments where I can learn and contribute
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Tech Stack
 
-### 🏥 Server Alert System for Critical Infrastructure
-**Backend Engineer** | *Java · Spring Boot · PostgreSQL · Docker · Clean Architecture*
-* Designed and implemented a high-availability alert platform engineered to minimize downtime in mission-critical environments.
-* Decoupled core business logic from infrastructure using **Hexagonal Architecture (Ports & Adapters)**, ensuring seamless adaptability.
-* Developed asynchronous, automated notification workflows to dispatch real-time system health metrics.
-* Containerized the entire application stack using **Docker** for standardized deployment environments.
+### Backend
 
-### 📦 Enterprise Hospital Inventory Management
-**Full-Stack Backend Developer** | *Java · Spring Boot · PostgreSQL · Thymeleaf · Spring Security*
-* Built an enterprise-grade web application to manage life-critical equipment, supplies, and real-time stock optimization.
-* Developed a robust relational database schema with advanced normalization constraints to guarantee data consistency.
-* Enforced rigid role-based access control (RBAC) and user authentication workflows.
-* Leveraged server-side rendering via **Thymeleaf** to optimize load times and application responsiveness.
-
-### 🌱 Regional Reforestation Analytics & Tracking System
-**Software Engineer** | *Java · JavaFX · MySQL · Maven*
-* Engineerd a high-performance desktop analytics application deployed for monitoring environmental metrics and reforestation tracking.
-* Designed modular architectural components using **JavaFX** to deliver a responsive, intuitive interface.
-* Structured data access layers with optimized CRUD functionalities using **MySQL** and managed complex dependencies via **Maven**.
-
----
-
-## ⚡ Current Focus & Specialization
-
-* **Architecture:** Advanced Domain-Driven Design (DDD) & Event-Driven Microservices.
-* **Cloud & DevOps:** Orchestration with **Kubernetes** and CI/CD pipeline automation.
-* **Full-Stack:** Polishing enterprise web experiences with **Next.js** and typed systems.
-
----
-
-## 📬 Let's Connect
-
-* **LinkedIn:** [linkedin.com/in/sebastian-ba23722b8](https://www.linkedin.com/in/sebastian-ba23722b8)
-* **Email:** [sebastian022231@gmail.com](mailto:sebastian022231@gmail.com)
-
-<p align="center">
-  <i>Building robust solutions with clean code and modern architecture.</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot"/>
 </p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux" alt="PostgreSQL, MySQL, Docker, Git and Linux"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind" alt="TypeScript, Next.js and Tailwind CSS"/>
+</p>
+
+---
+
+## Featured Projects
+
+### 🏥 Server Alert System
+
+**Java · Spring Boot · PostgreSQL · Docker · Clean Architecture**
+
+Backend system designed to monitor server conditions and handle automated alerts.
+
+- Designed the application using **Hexagonal Architecture (Ports & Adapters)**.
+- Separated business logic from infrastructure concerns.
+- Implemented automated notification workflows.
+- Containerized the application using **Docker**.
+- Focused on maintainability and separation of responsibilities.
+
+---
+
+### 📦 Hospital Inventory Management
+
+**Java · Spring Boot · PostgreSQL · Thymeleaf · Spring Security**
+
+Web application for managing hospital equipment, supplies and inventory.
+
+- Designed the relational database and data relationships.
+- Implemented **CRUD operations** for inventory management.
+- Added authentication and **role-based access control (RBAC)**.
+- Used **Spring Security** to manage application access.
+- Built the web interface using **Thymeleaf**.
+
+---
+
+### 🌱 Reforestation Tracking System
+
+**Java · JavaFX · MySQL · Maven**
+
+Desktop application for managing and analyzing information related to reforestation projects.
+
+- Developed the application using **JavaFX**.
+- Implemented data management with **MySQL**.
+- Structured the application into separate layers.
+- Implemented CRUD operations for project data.
+- Managed dependencies with **Maven**.
+
+---
+
+## Currently Learning
+
+```text
+Software Architecture
+├── Clean Architecture
+├── Hexagonal Architecture
+└── Domain-Driven Design
+
+DevOps & Cloud
+├── Docker
+├── Kubernetes
+├── CI/CD
+└── Cloud Computing
+
+Backend
+├── Java
+├── Spring Boot
+├── REST APIs
+└── Database Design
