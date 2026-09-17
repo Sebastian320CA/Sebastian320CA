@@ -2,9 +2,9 @@
 
 ### Systems Engineering Student · Backend Development · Java & Spring Boot
 
-I'm a **Systems Engineering student** focused on backend development and software architecture. I enjoy building applications with **Java and Spring Boot**, working with databases, Linux environments, Docker, and exploring how systems work under the hood.
+I'm a **Systems Engineering student** interested in backend development, software architecture, and understanding how systems work under the hood.
 
-I'm currently strengthening my knowledge in **software architecture, DevOps, cloud computing, and distributed systems** through academic and personal projects.
+I primarily work with **Java and Spring Boot**, while building experience with databases, Linux, Docker, DevOps, and cloud technologies through academic and personal projects.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sebastian-cetina/">
@@ -20,13 +20,13 @@ I'm currently strengthening my knowledge in **software architecture, DevOps, clo
 ## About Me
 
 - 🎓 Systems Engineering student at **Universidad Santo Tomás**
-- 💻 Interested in **backend development and software architecture**
-- ☕ Currently focused on **Java & Spring Boot**
+- 💻 Focused on **backend development with Java & Spring Boot**
+- 🏗️ Learning **software architecture and design principles**
 - 🐧 Daily Linux user, especially **Arch Linux**
-- 🐳 Learning and applying **Docker, DevOps and cloud technologies**
-- 🗄️ Working with **PostgreSQL and MySQL**
-- 🔧 I enjoy understanding how software works under the hood
-- 🤝 Interested in collaborative environments where I can learn and contribute
+- 🐳 Working with **Docker and containerized applications**
+- 🗄️ Experience with **PostgreSQL and MySQL**
+- ☁️ Currently exploring **DevOps, Kubernetes and cloud computing**
+- 🤝 Interested in collaborative environments and real-world software development
 
 ---
 
@@ -38,10 +38,10 @@ I'm currently strengthening my knowledge in **software architecture, DevOps, clo
   <img src="https://skillicons.dev/icons?i=java,spring" alt="Java and Spring Boot"/>
 </p>
 
-### Databases & Tools
+### Databases & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux" alt="PostgreSQL, MySQL, Docker, Git and Linux"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,git,linux" alt="PostgreSQL, MySQL, Docker, Kubernetes, Git and Linux"/>
 </p>
 
 ### Frontend
@@ -56,15 +56,15 @@ I'm currently strengthening my knowledge in **software architecture, DevOps, clo
 
 ### 🏥 Server Alert System
 
-**Java · Spring Boot · PostgreSQL · Docker · Clean Architecture**
+**Java · Spring Boot · PostgreSQL · Docker**
 
-Backend system designed to monitor server conditions and handle automated alerts.
+A backend application for monitoring server conditions and managing automated alerts.
 
-- Designed the application using **Hexagonal Architecture (Ports & Adapters)**.
+- Applied **Hexagonal Architecture (Ports & Adapters)**.
 - Separated business logic from infrastructure concerns.
 - Implemented automated notification workflows.
-- Containerized the application using **Docker**.
-- Focused on maintainability and separation of responsibilities.
+- Containerized the application with **Docker**.
+- Focused on maintainable and modular code.
 
 ---
 
@@ -72,13 +72,13 @@ Backend system designed to monitor server conditions and handle automated alerts
 
 **Java · Spring Boot · PostgreSQL · Thymeleaf · Spring Security**
 
-Web application for managing hospital equipment, supplies and inventory.
+A web application for managing hospital equipment, supplies, and inventory.
 
-- Designed the relational database and data relationships.
-- Implemented **CRUD operations** for inventory management.
+- Designed the relational database structure.
+- Implemented inventory **CRUD operations**.
 - Added authentication and **role-based access control (RBAC)**.
-- Used **Spring Security** to manage application access.
-- Built the web interface using **Thymeleaf**.
+- Used **Spring Security** for application authorization.
+- Built the web interface with **Thymeleaf**.
 
 ---
 
@@ -86,11 +86,11 @@ Web application for managing hospital equipment, supplies and inventory.
 
 **Java · JavaFX · MySQL · Maven**
 
-Desktop application for managing and analyzing information related to reforestation projects.
+A desktop application for managing information related to reforestation projects.
 
 - Developed the application using **JavaFX**.
 - Implemented data management with **MySQL**.
-- Structured the application into separate layers.
+- Organized the application into separate layers.
 - Implemented CRUD operations for project data.
 - Managed dependencies with **Maven**.
 
@@ -98,20 +98,40 @@ Desktop application for managing and analyzing information related to reforestat
 
 ## Currently Learning
 
-```text
-Software Architecture
-├── Clean Architecture
-├── Hexagonal Architecture
-└── Domain-Driven Design
+**Software Architecture**
+- Clean Architecture
+- Hexagonal Architecture
+- Domain-Driven Design
 
-DevOps & Cloud
-├── Docker
-├── Kubernetes
-├── CI/CD
-└── Cloud Computing
+**DevOps & Cloud**
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud Computing
 
-Backend
-├── Java
-├── Spring Boot
-├── REST APIs
-└── Database Design
+**Backend Development**
+- Java
+- Spring Boot
+- REST APIs
+- Database Design
+
+---
+
+## Goals
+
+I'm currently looking to gain **real-world software development experience**, contribute to development teams, and continue improving my backend and software engineering skills.
+
+---
+
+## Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sebastian-cetina/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sebastian022231@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+> Building, learning and improving one project at a time.
