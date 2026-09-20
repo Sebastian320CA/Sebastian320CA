@@ -7,13 +7,17 @@ I'm a **Systems Engineering student** interested in backend development, softwar
 I primarily work with **Java and Spring Boot**, while building experience with databases, Linux, Docker, DevOps, and cloud technologies through academic and personal projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sebastian-cetina/">
+  <a href="https://myportfolio-acem-39cd.vercel.app/" target="_blank">
+    <img src="https://shields.io" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-cetina/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sebastian022231@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
