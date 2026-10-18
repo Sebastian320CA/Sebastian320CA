@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://myportfolio-acem-39cd.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a> 😊
+  </a> 
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sebastian-cetina/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
