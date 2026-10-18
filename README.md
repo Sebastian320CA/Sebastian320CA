@@ -25,21 +25,16 @@
 <!-- BOTONES -->
 <p align="center">
   <a href="https://myportfolio-acem-39cd.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20:smiley:-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a> 😊
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sebastian-cetina/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:sebastian022231@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<!-- CONTADOR DE VISITAS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sebastian320CA&label=Profile%20views&color=0A66C2&style=flat-square" />
 </p>
 
 <br>
@@ -63,6 +58,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center"><b>Cloud</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 <p align="center"><b>Frontend</b></p>
