@@ -3,39 +3,49 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6FF&height=230&section=header&text=Sebastian%20Cetina&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Backend%20Developer&descSize=18&descAlignY=58" width="100%"/>
 </div>
 
+<br>
+
 <!-- TEXTO ANIMADO -->
 <div align="center">
   <a href="https://myportfolio-acem-39cd.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%26+Spring+Boot;Software+Architecture+%7C+Linux+%7C+DevOps;Building%2C+learning+and+improving+every+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;Java+%26+Spring+Boot;Software+Architecture+%7C+Linux+%7C+DevOps;Building%2C+learning+and+improving+every+day" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
+<!-- DESCRIPCION -->
 <p align="center">
   I build backend applications with Java and Spring Boot, with an interest in
   software architecture, Linux, DevOps and cloud technologies.
 </p>
 
+<br>
+
 <!-- BOTONES -->
 <p align="center">
   <a href="https://myportfolio-acem-39cd.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20:smiley:-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sebastian-cetina/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:sebastian022231@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <!-- CONTADOR DE VISITAS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USER&label=Profile%20views&color=0A66C2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Sebastian320CA&label=Profile%20views&color=0A66C2&style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaa27f.gif" width="100%">
+<br>
+
+<!-- SEPARADOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00C6FF&height=3" width="100%"/>
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">🛠️ Technologies</h2>
@@ -62,12 +72,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaa27f.gif" width="100%">
-
-<!-- SNAKE (opcional, requiere GitHub Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_USER/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
+<br>
 
 <!-- FOOTER -->
 <div align="center">
