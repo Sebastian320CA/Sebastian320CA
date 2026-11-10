@@ -1,4 +1,4 @@
-<!-- HEADER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C6FF&height=230&section=header&text=Sebastian%20Cetina&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Engineering%20Student%20%C2%B7%20Backend%20Developer&descSize=18&descAlignY=58" width="100%"/>
 </div>
