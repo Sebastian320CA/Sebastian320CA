@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- TEXTO ANIMADO -->
+
 <div align="center">
   <a href="https://myportfolio-acem-39cd.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=Backend+Developer;Java+%26+Spring+Boot;Software+Architecture+%7C+Linux+%7C+DevOps;Building%2C+learning+and+improving+every+day" alt="Typing SVG" />
