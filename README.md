@@ -14,7 +14,7 @@
 
 <br>
 
-<!-- DESCRIPCION -->
+
 <p align="center">
   I build backend applications with Java and Spring Boot, with an interest in
   software architecture, Linux, DevOps and cloud technologies.
